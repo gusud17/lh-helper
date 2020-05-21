@@ -2,12 +2,12 @@
 주택 청약 공고 확인 도우미
 
 ## 목적
-개발 연습
+개발 연습<br/>
 주택 청약 공고 매번 확인하기 번거로워서
 
 ## 개발스택
-Java 8
-SpringBoot 2.3.0
+Java 8<br/>
+SpringBoot 2.3.0<br/>
 thymeleaf
 
 ## 기능 목록
